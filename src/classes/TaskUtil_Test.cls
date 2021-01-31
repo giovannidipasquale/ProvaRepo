@@ -5,4 +5,4 @@ private class TaskUtil_Test {
         String pri = TaskUtil.getTaskPriority('NY');
         System.assertEquals('Normal', pri);
     }
-}
+} 
